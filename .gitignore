@@ -1,0 +1,11 @@
+# package directories
+node_modules
+jspm_packages
+
+# Serverless directories
+.serverless
+
+# dotenv environment variables file
+.env
+.env.test
+.env*.local

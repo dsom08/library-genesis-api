@@ -1,0 +1,19 @@
+{
+  "name": "library-genesis-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0",
+    "jsdom": "^16.4.0",
+    "node-html-parser": "^2.0.0",
+    "query-string": "^6.13.7"
+  }
+}
